@@ -1,7 +1,7 @@
 ### <div align="center">Açık kaynak kodlu kendinize göre özelleştirebileceğiniz DiscordPlaying BOT</div>  
   
 
-![trpolaris black](https://i.imgur.com/sRW9qUa_d.webp?maxwijhdth=760&fidelity=grand)  
+![trpolaris black](https://i.imgur.com/sRW9qUa_d.webp?maxwidth=760&fidelity=grand)   
   
 
 - Discord bot özelliği vardır.  
@@ -28,7 +28,7 @@ Herhangi bir problem yaşarsanız sosyal medya hesablarım üzerinden benimle il
 ## Fotoğraf  
 <table><tr><td valign="top" width="33%">
 
-![DiscordPlaying BOT](https://i.imgur.com/96wtOzE_d.webp?maxwidth=760&fidelity=grand)  
+![DiscordPlaying BOT](https://i.imsgur.com/96wtOzE_d.webp?maxwidth=760&fidelity=grand)  
 
 
 
