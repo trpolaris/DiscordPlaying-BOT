@@ -28,7 +28,7 @@ Herhangi bir problem yaşarsanız sosyal medya hesablarım üzerinden benimle il
 ## Fotoğraf  
 <table><tr><td valign="top" width="33%">
 
-![DiscordPlaying BOT](https://i.imsgur.com/96wtOzE_d.webp?maxwidth=760&fidelity=grand)  
+![DiscordPlaying BOT](https://i.imgur.com/4j2SXCa_d.webp?maxwidth=760&fidelity=grand)  
 
 
 
